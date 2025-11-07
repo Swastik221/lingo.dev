@@ -186,3 +186,4 @@ The automated review will post comments on your PR with suggestions and feedback
 ---
 
 Thank you!
+have a nice day!!

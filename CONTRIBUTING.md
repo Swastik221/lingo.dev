@@ -1,13 +1,16 @@
 # CONTRIBUTING.md
 
-Thank you for contributing to Lingo.dev! We're an exciting open source project and we love having you contribute!
+Thank you for contributing to **Lingo.dev!** We're an exciting open source project and we love having you contribute!
 
 Here are some resources and guidance to help you get started:
 
 1. [Getting Started](#getting-started)
 2. [Issues](#issues)
 3. [Pull Requests](#pull-requests)
-4. [Release Process](#release-process)
+4. [Contribution Etiquette & Ground Rules](#contribution-etiquette--ground-rules)
+5. [Release Process](#release-process)
+
+---
 
 ## Getting Started
 
@@ -31,7 +34,6 @@ To set up the project, clone the repository and install the dependencies:
 git clone https://github.com/lingodotdev/lingo.dev
 cd lingo.dev
 pnpm install
-```
 
 Next, configure an AI API key. You can use either a Lingo.dev API key or one of the supported LLM model providers.
 
